@@ -1,4 +1,4 @@
-import { million } from "./lib/format/million";
+import { million } from "./lib/millions";
 
 const transformNumberToText = (number) => {
   return million(number);
