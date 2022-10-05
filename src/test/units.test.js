@@ -1,4 +1,4 @@
-import { units } from "../lib/format/units";
+import { units } from "../lib/units";
 
 describe("should return the number text", () => {
   it("should return 'CINCO'", () => {
