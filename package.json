@@ -1,5 +1,5 @@
 {
-  "name": "numbertoletter",
+  "name": "@wiar8/numbertoletter",
   "version": "1.0.1",
   "description": "This package is responsible for transforming numbers into text statements.",
   "source": "src/index.js",
