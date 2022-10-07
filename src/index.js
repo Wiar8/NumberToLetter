@@ -1,5 +1,7 @@
-function sum(a, b) {
-  return a + b;
-}
+import { million } from "./lib/millions";
 
-export default sum;
+const transformNumberToText = (number) => {
+  return million(number);
+};
+
+export default transformNumberToText;
