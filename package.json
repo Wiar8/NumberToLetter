@@ -1,6 +1,6 @@
 {
   "name": "numbertoletter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This package is responsible for transforming numbers into text statements.",
   "source": "src/index.js",
   "main": "dist/numbertoletter.js",
