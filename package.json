@@ -1,6 +1,6 @@
 {
   "name": "numlett",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package is responsible for transforming numbers into text statements.",
   "source": "src/index.js",
   "main": "dist/numbertoletter.js",
