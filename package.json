@@ -14,7 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/Wiar8/NumberToLetter.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Javascript",
+    "Numbers"
+  ],
   "author": "Sebastian Noguera <master@wiar8.com> (https://wiar8.com/)",
   "license": "MIT",
   "bugs": {
